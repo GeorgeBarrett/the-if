@@ -26,3 +26,8 @@ if people > trucks:
 
 else:
     print('Let\'s just stay in.') # the final return
+
+
+# if - is the original condition
+# elif - fires if the original if returns false
+# else - will fire when the if and elif return false
